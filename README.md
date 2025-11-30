@@ -50,7 +50,7 @@ Data read back and printed in console log
 
 📥 Installation & Setup
 1. Clone Repository
-git clone https://github.com/your-username/lottery-results-scraper.git
+git clone https://github.com/sheharagamage/lottery-results-scraper.git
 cd lottery-results-scraper
 
 2. Update application.properties
